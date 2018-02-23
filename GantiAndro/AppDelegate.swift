@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  GantiAndro
-//
-//  Created by Polak on 6/2/17.
-//  Copyright © 2017 Polak. All rights reserved.
-//
 
 import UIKit
 
